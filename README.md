@@ -1,5 +1,7 @@
 ![My GitHub Stats](https://github-readme-stats-5h11-octgsoftware.vercel.app/api?username=octgsoftware&count_private=true&show_icons=true&include_all_commits=true&&hide=stars&theme=transparent)
 
+[![Top Langs](https://github-readme-stats-5h11-octgsoftware.vercel.app/api/top-langs/?username=octgsoftware&theme=transparent)](https://github-readme-stats-5h11-octgsoftware.vercel.app&theme=transparent)
+
 <!--
 **octgsoftware/octgsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
